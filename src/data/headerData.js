@@ -1,9 +1,12 @@
-// import resume from '../assets/pdf/resume.pdf'
+import resume from '../assets/pdf/resume.pdf'
+import profile from '../assets/images/profiletest.jpg'
 
 export const headerData = {
+    welcometext: 'Hello, MY NAME IS',
     name: 'Shilpakar Simran',
-    title: "Web Developer",
-    description: "Life may be a meandering path but don't worry about it, rather enjoy it. It is about the journey, not the destination so explore all that comes your way, learn and grow from it, for this journey only happens once.",
-    image: 'https://avatars.githubusercontent.com/u/85482640?v=4',
-    // resumePdf: resume
-}
+    titlestart: 'I Am',
+    title: "WEB DEVELOPER",
+    description: "Empowering Tomorrow's Tech with Today's Innovations, Knowledge, and Resources",
+    image: profile,
+    resumePdf: resume
+}   

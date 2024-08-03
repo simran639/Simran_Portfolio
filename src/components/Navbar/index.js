@@ -30,12 +30,16 @@ const Navbar = () => {
                 <h1>
                     {headerData.name}
                 </h1>
-                <IoMenuSharp
-                    onClick={handleDrawerOpen}
-                    aria-label='Menu'
-                    id='navicon'
-                />
+                <div className='menuIcon'>
+                    <IoMenuSharp
+                        onClick={handleDrawerOpen}
+                        aria-label='Menu'
+                        id='navicon'
+                    />
+                </div>
+
             </div>
+
             <Drawer
                 onClose={(event, reason) => {
                     if (reason !== 'backdropClick') {
@@ -48,7 +52,7 @@ const Navbar = () => {
                 open={open}
                 disableScrollLock={true}
             >
-                <div className='div-closebtn'>
+                {/* <div className='div-closebtn'>
                     <CloseIcon
                         onClick={handleDrawerClose}
                         onKeyDown={(e) => {
@@ -61,8 +65,7 @@ const Navbar = () => {
                         tabIndex='0'
                         aria-label='Close'
                     />
-                </div>
-                <br />
+                </div> */}
 
                 <div onClick={handleDrawerClose}>
                     <div className='navLink--container'>
@@ -160,6 +163,7 @@ const Navbar = () => {
                     </div>
                 </div>
             </Drawer>
+
         </div>
     )
 }

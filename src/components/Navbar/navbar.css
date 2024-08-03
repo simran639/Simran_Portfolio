@@ -1,7 +1,7 @@
 .navbar {
     height: 6.5rem;
     position: absolute;
-    background-color: #718a71;
+    /* background-color: #718a71; */
     z-index: 99;
     display: flex;
     align-items: center;
@@ -16,8 +16,8 @@
     width: 100%;
     padding: 0 3rem;
     margin-top: 1rem;
-    /* position: fixed; */
-    /* top: 10px; */
+    position: fixed;
+    top: 10px;
 
 }
 
@@ -31,10 +31,26 @@
     color: var(--primary-2);
     font-size: 2.5rem;
     user-select: none;
+    color: #aad576;
 }
 
 .navLink--container>a {
     height: 10px
+}
+
+.menuIcon {
+    width: 50px;
+    height: 50px;
+    background-color: #283618;
+    color: #aad576;
+    border: none;
+    border-radius: 50px;
+}
+
+#navicon {
+    width: 30px;
+    height: 40px;
+    margin: 4px 10px;
 }
 
 .drawer {
@@ -55,11 +71,18 @@
     backdrop-filter: blur(20px) !important;
 }
 
+.css-1160xiw-MuiPaper-root-MuiDrawer-paper {
+    background-color: #718a71 !important;
+    border: none !important;
+    border-radius: 40px !important;
+    box-shadow: #283618 !important;
+}
+
 .drawerItem {
     margin: 2rem auto;
     border-radius: 78.8418px;
-    background: black;
-    color: white;
+    background: #143601;
+    color: #aad576;
     width: 85%;
     height: 60px;
     display: flex;
@@ -67,8 +90,6 @@
     justify-content: space-evenly;
     padding: 0 30px;
     box-sizing: border-box;
-    border: 2px solid;
-    border-color: white;
     transition: 'background-color 0.2s; color 0.2s',
 }
 
