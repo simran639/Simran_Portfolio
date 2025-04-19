@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/SimranShilpakarResume.pdf'
+import Simran_CV from '../assets/pdf/Simran_Shilpakar_CV.pdf'
 import profile from '../assets/images/profiletest.jpg'
 
 export const headerData = {
@@ -8,5 +8,5 @@ export const headerData = {
     // title: "WEB DEVELOPER",
     description: "Empowering Tomorrow's Tech with Today's Innovations, Knowledge, and Resources",
     image: profile,
-    resumePdf: resume
+    resumePdf: Simran_CV
 }   

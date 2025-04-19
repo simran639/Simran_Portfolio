@@ -15,6 +15,14 @@ import java from '../assets/svg/skills/java.svg'
 import php from '../assets/svg/skills/php.svg'
 import git from '../assets/svg/skills/git.svg'
 import materialui from '../assets/svg/skills/materialui.svg'
+import nmap from '../assets/svg/skills/nmap.svg'
+import burpsuite from '../assets/svg/skills/burpsuite.svg'
+import wireshark from '../assets/svg/skills/wireshark.svg'
+import websec from '../assets/svg/skills/websec.png'
+import offsec from '../assets/svg/skills/offsec.png'
+import netsec from '../assets/svg/skills/netsec.png'
+import kalilinux from '../assets/svg/skills/kalilinux.svg'
+import metasploit from '../assets/svg/skills/metasploit.png'
 
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
@@ -51,6 +59,22 @@ export const skillsImage = (skill) => {
             return git;
         case 'materialui':
             return materialui;
+        case 'nmap':
+            return nmap;
+        case 'burpsuite':
+            return burpsuite;
+        case 'wireshark':
+            return wireshark;
+        case 'web security':
+            return websec;
+        case 'network sec':
+            return netsec;
+        case 'offsec':
+            return offsec;
+        case 'kali linux':
+            return kalilinux;
+            case 'metasploit':
+            return metasploit;
         default:
             break;
     }

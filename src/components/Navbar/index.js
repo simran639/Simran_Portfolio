@@ -132,7 +132,7 @@ const Navbar = () => {
                             </NavLink>
 
                             <NavLink
-                                to='/#projects'
+                                to='/#experience'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -142,12 +142,12 @@ const Navbar = () => {
                                         className="drawerIcon"
                                     />
                                     <span className="drawerLinks">
-                                        Projects
+                                        Experience
                                     </span>
                                 </div>
                             </NavLink>
 
-                            <NavLink
+                            {/* <NavLink
                                 to='/#contacts'
                                 smooth={true}
                                 spy='true'
@@ -159,7 +159,7 @@ const Navbar = () => {
                                         Contact
                                     </span>
                                 </div>
-                            </NavLink>
+                            </NavLink> */}
                         </div>
                     </div>
                 </Fade>
