@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Simran_Portfolio/static/css/main.e185c9d8.css",
+    "main.js": "/Simran_Portfolio/static/js/main.0cc5b039.js",
+    "static/js/453.ace21015.chunk.js": "/Simran_Portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/SimranShilpakarResume.pdf": "/Simran_Portfolio/static/media/SimranShilpakarResume.348e3e336c441de734be.pdf",
+    "static/media/expGreen.svg": "/Simran_Portfolio/static/media/expGreen.dffa1cc66a55ae11be49b61753f4c221.svg",
+    "static/media/BestermindRegular.ttf": "/Simran_Portfolio/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
+    "static/media/profiletest.jpg": "/Simran_Portfolio/static/media/profiletest.2ea6d9374f685b990514.jpg",
+    "static/media/greenTheme-girl.svg": "/Simran_Portfolio/static/media/greenTheme-girl.95973dbaae74c490ec3ba7a6c9a70d26.svg",
+    "static/media/postgresql.svg": "/Simran_Portfolio/static/media/postgresql.c0d71b7cf608d9c6aa8676fee6925850.svg",
+    "static/media/eduGreen.svg": "/Simran_Portfolio/static/media/eduGreen.7d2ee27248c9c15b20216aa2368078d8.svg",
+    "static/media/react.svg": "/Simran_Portfolio/static/media/react.2b6a071759fcdac074f4dcad26eef347.svg",
+    "static/media/mysql.svg": "/Simran_Portfolio/static/media/mysql.f9e45d29a8d636bf8f78c9c346b7a7ce.svg",
+    "static/media/cplusplus.svg": "/Simran_Portfolio/static/media/cplusplus.3398ef505c35b160f8f737a0555dd38d.svg",
+    "static/media/java.svg": "/Simran_Portfolio/static/media/java.d004bc17bfb68228540d36c37e6eb811.svg",
+    "static/media/php.svg": "/Simran_Portfolio/static/media/php.8132ef917cba8599d1667919b7efd47f.svg",
+    "static/media/c.svg": "/Simran_Portfolio/static/media/c.773774198bd303d1f2b5b9c3043383da.svg",
+    "static/media/bootstrap.svg": "/Simran_Portfolio/static/media/bootstrap.19a2d2ff74985cbf49a1aed7fb4d5401.svg",
+    "static/media/git.svg": "/Simran_Portfolio/static/media/git.a0b8447eefa4cd939642f1017ee1c962.svg",
+    "static/media/eduImgBlack.svg": "/Simran_Portfolio/static/media/eduImgBlack.5fea8ad7644c1571aa7a54ec9f286ab5.svg",
+    "static/media/javascript.svg": "/Simran_Portfolio/static/media/javascript.e9360603cdd412c8f9acb925313bc3f3.svg",
+    "static/media/expImgBlack.svg": "/Simran_Portfolio/static/media/expImgBlack.152d994c2fc37272270e3c27881b4447.svg",
+    "static/media/tailwind.svg": "/Simran_Portfolio/static/media/tailwind.254c48658eac1b5c8fb5cd4bba5df5b4.svg",
+    "static/media/css.svg": "/Simran_Portfolio/static/media/css.43b6f4bdbc0f36b9f2dd15c6ebbcea15.svg",
+    "static/media/html.svg": "/Simran_Portfolio/static/media/html.6a342d61e4fe710cf3e5c05b65b0ac87.svg",
+    "index.html": "/Simran_Portfolio/index.html",
+    "static/media/angular.svg": "/Simran_Portfolio/static/media/angular.d4cb4fa5908f614ceb0969ed92e02f9c.svg",
+    "static/media/materialui.svg": "/Simran_Portfolio/static/media/materialui.518da2c04cdbcf8b4ca3e2ac554c38e9.svg",
+    "static/media/vue.svg": "/Simran_Portfolio/static/media/vue.47bdfb5a7a54d8ade2aa4c61d5148668.svg",
+    "main.e185c9d8.css.map": "/Simran_Portfolio/static/css/main.e185c9d8.css.map",
+    "main.0cc5b039.js.map": "/Simran_Portfolio/static/js/main.0cc5b039.js.map",
+    "453.ace21015.chunk.js.map": "/Simran_Portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e185c9d8.css",
+    "static/js/main.0cc5b039.js"
+  ]
+}
