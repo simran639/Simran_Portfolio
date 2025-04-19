@@ -1,7 +1,7 @@
 export const socialsData = {
-    github: 'https://github.com/simran2057',
+    github: 'https://github.com/simran639',
     facebook: '',
-    linkedIn: 'https://www.linkedin.com/in/simran-shilpakar-2aa62a224',
+    linkedIn: 'https://www.linkedin.com/in/simran-shilpakar',
     instagram: 'https://www.instagram.com/simranshilpakar',
     codepen: '',
     twitter: '',

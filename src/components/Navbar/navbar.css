@@ -23,7 +23,8 @@
 
 .navLink--container {
     margin-top: 5rem;
-    width: 250px
+    width: 250px;
+    transition: background-color ease-in-out;
 }
 
 .navbar--container>h1 {

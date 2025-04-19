@@ -11,6 +11,10 @@ import {
 } from 'react-icons/fa';
 import Navbar from '../Navbar';
 import AboutPage from '../AboutPage'
+import EducationPage from '../EducationPage';
+import SkillsPage from '../SkillsPage';
+import ExperiencePage from '../ExperiencePage'
+// import Contacts from '../ContactsPage';
 
 function Landing() {
 
@@ -134,6 +138,10 @@ function Landing() {
                 </div>
             </div>
             <AboutPage></AboutPage>
+            <EducationPage></EducationPage>
+            <SkillsPage></SkillsPage>
+            <ExperiencePage></ExperiencePage>
+            {/* <Contacts></Contacts> */}
         </div>
 
     );
